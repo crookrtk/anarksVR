@@ -137,7 +137,7 @@ LocalPlayer.OnTeleport:Connect(function(State)
         syn.queue_on_teleport([[
             repeat wait() until game:IsLoaded() and game.Players.LocalPlayer.Character
             Wait(1)
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/sauceVR/main/main.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/crookrtk/anarksVR/main/main.lua"))()
         ]])
     end
 end)
@@ -145,7 +145,7 @@ end)
 --=========[Modules]
 function getModule(module)
     assert(type(module) == "string", "string only")
-    local path = "https://raw.githubusercontent.com/saucekid/sauceVR/main/modules/"
+    local path = "https://raw.githubusercontent.com/crookrtk/anarksVR/main/modules/"
     local module = loadstring(game:HttpGetAsync(path.. module.. ".lua"))()
     return module
 end
