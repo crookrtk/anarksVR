@@ -47,7 +47,7 @@ getgenv().options = {
     NetlessVelocity = Vector3.new(0,-45,0)
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/crookrtk/anarksVR/main/modules/Services/PhysicsService.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crookrtk/anarksVR/main/anarksVR/main.lua"))();
 ```
 
 ## Default Controls:
