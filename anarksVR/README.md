@@ -47,7 +47,7 @@ getgenv().options = {
     NetlessVelocity = Vector3.new(0,-45,0)
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/sauceVR/main/main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crookrtk/anarksVR/main/main.lua"))();
 ```
 
 ## Default Controls:
@@ -83,8 +83,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/sauceVR/extr
 
 ---
 ## Credits
-`TheNexusAvenger` - *NexusVR*
+`TheNexusAvenger` - *NexusVR, saucekid*
 
-## License
+## License (This is just an archive of sauceVR if something happens.
 
-sauceVR is available under the MIT license. See [LICENSE](https://github.com/saucekid/sauceVR/blob/main/LICENSE) for more details.
+anarksVR is available under the MIT license. See [LICENSE](https://github.com/saucekid/sauceVR/blob/main/LICENSE) for more details.
