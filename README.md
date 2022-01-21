@@ -85,6 +85,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/sauceVR/extr
 ## Credits
 `TheNexusAvenger` - *NexusVR , saucekid*
 
-## License (ARCHIVE OF SAUCEVR, I OWN NO RIGHTS TO THE SCRIPTS)
+## License (ARCHIVE & FIXED VERSION OF SAUCEVR, I OWN NO RIGHTS TO THE SCRIPTS)
 
 sauceVR is available under the MIT license. See [LICENSE](https://github.com/saucekid/sauceVR/blob/main/LICENSE) for more details.
