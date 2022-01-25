@@ -43,7 +43,7 @@ getgenv().options = {
         [3] = CFrame.new(0,0,.5) * CFrame.Angles(0,math.rad(90),0),
     },
         
-    --Velocity of part (more = more jitter, but more stable)
+    --Velocity of part (more = more jitter, but more stable [I HAVE ADDED A BETTER DEFAULT NET INSIDE THE SCRIPT, NO NEED TO TAMPER WITH THESE SETTINGS. THE NET INSIDE THAT WAS RECENTLY ADDED IS SET TO PERFECT SETTINGS.])
     NetlessVelocity = Vector3.new(0,-45,0)
 }
 
